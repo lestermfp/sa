@@ -1,0 +1,3 @@
+[submodule "awesome-sysadmin"]
+	path = awesome-sysadmin
+	url = https://github.com/kahun/awesome-sysadmin.git
