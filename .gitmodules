@@ -1,3 +1,6 @@
 [submodule "awesome-sysadmin"]
 	path = awesome-sysadmin
 	url = https://github.com/kahun/awesome-sysadmin.git
+[submodule "BSD-Links"]
+	path = BSD-Links
+	url = https://github.com/DiscoverBSD/BSD-Links.git
