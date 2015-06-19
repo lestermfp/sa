@@ -4,3 +4,6 @@
 [submodule "BSD-Links"]
 	path = BSD-Links
 	url = https://github.com/DiscoverBSD/BSD-Links.git
+[submodule "awesome-dotfiles"]
+	path = awesome-dotfiles
+	url = https://github.com/webpro/awesome-dotfiles.git
